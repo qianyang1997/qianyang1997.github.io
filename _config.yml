@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qiana's Website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Qiana Yang"
 description              : &description "Qiana's Website."
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qiana Yang"
   avatar           : "profile.png"
-  bio              : "Data scientist. Pianist. Williams grad. Northwestern student."
+  bio              : "Data scientist @ Northwestern."
   location         : "US"
   employer         :
   pubmed           : 
