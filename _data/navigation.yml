@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Writing"
-    url: /publications/   
+    url: /writing/   
     
   - title: "Portfolio"
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blog/
     
   - title: "Resume"
     url: /files/Yang_Resume.pdf
