@@ -1,15 +1,13 @@
 ---
 title: "The Musical <i>Bildungsroman</i>: The Wanderer Motif in Robert Schumann's Piano Compositions"
 collection: publications
-permalink: /try
-excerpt: 
-date: 2015-10-01
+permalink: /writing/the-musical-bildungsroman
+excerpt: 'A unique reading of Schumann's music as an educational journey rooted in 19th-century German Romanticism.'
+date: 2019-04-15
 venue: 
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'empty'
+paperurl: 'https://qianyang1997.github.io/files/The%20Musical%20Bildungsroman_%20The%20Wanderer%20Motif%20in%20Robert%20Schumann's%20Piano%20Compositions%20%20.pdf'
+citation: 
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://qianyang1997.github.io/files/The%20Musical%20Bildungsroman_%20The%20Wanderer%20Motif%20in%20Robert%20Schumann's%20Piano%20Compositions%20%20.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
