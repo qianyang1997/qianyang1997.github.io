@@ -2,7 +2,7 @@
 title: "The Musical <i>Bildungsroman</i>: The Wanderer Motif in Robert Schumann's Piano Compositions"
 collection: 'academic'
 permalink: /writing/the-musical-bildungsroman
-excerpt: "Reading of Schumann's music as an educational journey."
+excerpt: "A unique reading of Schumann's music as an educational journey rooted in 19th-century German Romanticism."
 date: 2019-04-15
 venue: 
 paperurl: 'https://qianyang1997.github.io/files/the-musical-bildungsroman.pdf'
