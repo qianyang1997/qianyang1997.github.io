@@ -1,5 +1,5 @@
 ---
-title: "Bla bla"
+title: "The Musical <i>Bildungsroman</i>: The Wanderer Motif in Robert Schumann's Piano Compositions"
 collection: publications
 permalink: /try
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
