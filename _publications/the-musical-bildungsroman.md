@@ -1,6 +1,6 @@
 ---
 title: "The Musical <i>Bildungsroman</i>: The Wanderer Motif in Robert Schumann's Piano Compositions"
-collection: academic
+collection: publications
 permalink: /writing/2015-10-01-paper-title-number-3
 excerpt: 'A unique reading of Schumann's music as an educational journey rooted in 19th-century German Romanticism.'
 date: 2019-04-15
