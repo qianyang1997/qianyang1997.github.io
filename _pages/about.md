@@ -12,6 +12,6 @@ I'm a master's student at Northwestern University studying analytics and data sc
 
 Want to chat more about data science, politics, the benefits and struggles of a liberal arts education, or simply inquire about my top 3 Broadway musicals? [Email](mailto:qyang1997@outlook.com?subject=[GitHub]) me anytime.
 
-Interested in learning more about me?
+For more info...
 ------
-Browse the [writing](/writing/) page for my selected academic articles. Visit my [blog posts](/blog/) for a more casual read. If you want to get an idea of some of the recent projects I've been working on, take a look at my [portfolio](/portfolio/). And of course, feel free to connect with me on [LinkedIn](https://linkedin/in/qianyang19).
+Browse some of my selected [academic articles](/writing/), or visit my [blog posts](/blog/) for a more casual read. Curious about my recent projects? Take a look at my [portfolio](/portfolio/). And of course, feel free to connect with me on [LinkedIn](https://linkedin/in/qianyang19), and subscribe to my [Youtube channel](https://www.youtube.com/channel/UCltKZgDbJlFF6haCc0J3d0g) for some soothing Schumann and Brahms.
