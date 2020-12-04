@@ -5,7 +5,7 @@ date: 2020-12-02
 collection: portfolio
 ---
 
-Fake news detection is a popular use case of machine learning models in the areas of computational linguistics and cybersecurity. Given the democratization of technology in recent years and a decades-old trend toward greater polarization in political discourse, it is ever more important for news readers to develop a critical mindset, regardless of the reputation of the news source. To a large extent, machine learning and natural langauge processing methodologies have helped both content distributors and consumers discern fiction from truth. However, these models and algorithms still need a great degree of fine tuning, as the cultural and linguistic ecosystem of fake and misleading news will always be constantly evolving.
+Fake news detection is a popular use case of machine learning models in the areas of computational linguistics and cybersecurity. Given the democratization of technology in recent years and a decades-old trend toward greater polarization in political discourse, it is ever more important for news readers to develop a critical mindset, regardless of the reputation of the news source. To a large extent, machine learning and natural langauge processing methodologies have helped both content distributors and consumers discern fiction from truth. However, these models and algorithms still need a great degree of fine tuning, as the ecosystem of fake and misleading news is rapidly evolving now more than ever.
 
 Problem Statement
 -----------------
@@ -17,5 +17,25 @@ Because of these limitations and loose definitions, the task of labeling is a ma
 Methodology
 -----------
 
+The steps I wish to take for the project are as follows:
 
+* Come up with precise definitions for the key concepts at question. A major challenge of traditional fake detection models is a loosely defined boundary between real and falsified information. Should we classify an opinionated news article that touches on all the factual events as real or misleading? How do we quantify the degree of bias? These are the questions I hope to address.
 
+* Design a preliminary list of hypotheses to serve as the x variables of my supervised learning model. Select linguistic cues that make practical sense for the project and translate them into predictive features. 
+
+* Specify the scope of the sample. Perform stratified sampling to collect news articles from various sources detailing the 2020 election.
+
+* Label the sample. I am hesitant to use existing fake news data sources due to concerns outlined above. I will recruit a small subset of volunteers to help with the labeling process. This step will ensure that the variable definitions are accurately communicated and that the survey generate fairly unbiased reponses. The collected data will help me assess whether my definitions, hypotheses or surveys need further optimization.
+
+* Distribute the optimized survey and recruit more volunteers to label at scale.
+
+* BUild the data processing pipeline for the model fitting process. Perform data wrangling and imputation as needed.
+
+* Fit both classification and regression models and select the most predictive and explainable features.
+
+* Repeat any steps as needed. Depending on feasibility, I may build a user interface or dashboard for the final model.
+
+Potential Use Cases
+-------------------
+
+One potential use case of the model is to help journalists and content curators gauge how their writing is likely to be perceived by readers. The model can also be used to inform interested readers of any subconscious bias that may be present when they approach certain types of news articles. Ultimately, I envision this project to be more of a "mindfulness" exercise rather than a news filtering tool. It is important to acknowledge that my findings from this project will be limited in scope (just as all the models out there) and therefore no hard universal truth (which I'm adamently against) should be derived from it.
