@@ -1,6 +1,7 @@
 ---
 title: "A Computational Analysis of Reader's Perception of Bias and Deception in Political News"
 excerpt: ""
+date: 2020-12-02
 collection: portfolio
 ---
 
