@@ -1,5 +1,5 @@
 ---
-title: "A Computational Approach to Assessing News Trustworthiness in a Digital Landscape"
+title: "A Computational Approach to Assessing News Trustworthiness in a Digital World"
 excerpt: "Inspired by the plethora of machine learning models on fake new detection, my project aims to assess the correlation between certain rhetorical strategies and news readers' perception of bias and deception in online media sources. I will be primarily focusing on articles detailing the 2020 election."
 date: 2020-12-02
 collection: portfolio
