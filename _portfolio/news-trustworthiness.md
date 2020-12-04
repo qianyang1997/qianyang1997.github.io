@@ -17,7 +17,7 @@ Because of these limitations and loose definitions, the task of labeling is a ma
 Methodology
 -----------
 
-The steps I wish to take for the project are as follows:
+The steps I've envisioned are as follows:
 
 * Come up with precise definitions for the key concepts at question. A major challenge of traditional fake detection models is a loosely defined boundary between real and falsified information. Should we classify an opinionated news article that touches on all the factual events as real or misleading? How do we quantify the degree of bias? These are the questions I hope to address.
 
