@@ -17,7 +17,7 @@ Because of these limitations, the task of labeling is a major challenge in the c
 
 <i>Handbook of Social Media Research Methods</i> identifies numerous features that affect news articles' credibility and trustworthiness, including but not limited to name, location, and credentials of the author, information completeness and timeliness, match to prior expectations, aesthetic presentation, literary appeal, reputability of the news source, and placement of the news article on the webpage (Rubin, V.L., "Deception Detection and Rumor Debunking for Social Media", 16). Here, my analysis will focus primarily on linguistic cues and source reputability while controlling for the other variables.
 
-Below I will outline some of the top-level ideas I've conceived for the project. Out of concern for the lengthiness of the article, I will post the specifics of my research process and methodologies in succinct, separate blog posts.
+Below I will outline some of the top-level ideas I've conceived for the project. Out of concern for the lengthiness of the article, I will post the specifics of my research process and methodologies in separate blog posts.
 
 Methodology
 -----------
