@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Qiana Yang"
 description              : &description "Qiana's Website."
