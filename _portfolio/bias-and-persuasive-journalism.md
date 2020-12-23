@@ -15,34 +15,26 @@ There is an abundance of literature in the field of computational disinformation
 
 Because discourse competition and bias are ubiquitous, I think the task of labeling is a major challenge in the disinformation space. Rather than drawing hard classification rules using known natural language processing pipelines, I am more intrigued by the way elements of bias are weaved into the seemingly "neutral" construction of journalistic texts. For this research project, I'd like to make an effort to answer the bigger question of how media can effectively shape or challenge readers' preexisting beliefs. I will draw upon past scholarship on persuasive journalism and utilize natural language processing techniques to analyze a variety of editorials and op-ed pieces on the current developments of Covid-19 and the presidential transition.
 
-My research will consist of two parts. First, I'd like to investigate how media outlets with different political leanings and agendas report on the same issues differently. The classifical approach to natural language processing will allow me to assess the styles, lexicon, and sentiments of journalistic text. I would also look at  
+My research will consist of two parts. First, I'd like to compare and contrast how media outlets with different political leanings and agendas report on the same issues differently. The classifical approach to natural language processing will allow me to assess the styles, lexicon, and sentiments of journalistic text. I would also look at these articles at the topic and source level, examining the relative frequency of reports on a specific issue for each target media outlet in my database. This approach will offer insights into the extent of selection and partisan bias in major news outlets and the way these biased elements are carried out linguistically. 
 
-<i>Handbook of Social Media Research Methods</i> identifies numerous features that affect news articles' expertise and trustworthiness, including but not limited to name, location, and credentials of the author, information completeness and timeliness, match to prior expectations, aesthetic presentation, literary appeal, reputability of the news source, and placement of the news article on the webpage (Rubin, V.L., "Deception Detection and Rumor Debunking for Social Media", 16). I will focus on some or all of these features for my analysis.
-
-Below I will outline some of the top-level ideas I've conceived for the project. Out of concern for the lengthiness of the article, I will post the specifics of my research process and methodologies in separate blog posts.
+The second part of the research will delve into the themes of persuasion and interaction. What structural and stylistic strategies do journalists employ, either consiously or subconsciously, to influence the opinion of the readers? Past scholarship in linguistics has proposed the concept of metadiscourse, a set of linguistic devices deemed essential to persuasive writing, as it is "used to communicate attitudes and to mark the structural properties of a piece of discourse" (Moghadam, <i>Persuasion in Journalism: A Study of Metadiscourse in Texts</i>). In his 2005 book, Hyland theorizes a set of metadiscourse markers used as instruments for persuasion in multi-lingual and multi-cultural contexts (Hyland, <i>Metadiscourse: Exploring Interaction in Writing</i>). By exploring the ways in which these markers are used in journalistic text via machine learning algorithms, I plan to investigate the persuasive intention of political news articles as well as the effectiveness of the agenda.
 
 Methodology
 -----------
 
 My project will follow the conventional data mining CRISP-DM pipeline. A rough draft of the process is as follows:
 
-* Establish precise definitions for the concept of <i>credibility</i>, and identify linguistic cues that match these definitions.
+* Set up preliminary hypotheses for my research questions. 
 
-* Come up with hypotheses and translate them into predictive features. 
+* Specify the scope of the sample and collect articles from various APIs, national and local news sites.
 
-* Specify the scope of the sample. Perform stratified sampling to collect news articles and comments from various sources detailing the 2020 election.
+* Perform web scraping and text preprocessing to prepare data in a format that could be fed to machine algorithms. Leverage known NLP practices and apply new labeling methods as needed. 
 
-* <i>subject to change</i> Label the sample. I am hesitant to use existing fake news data sources due to concerns outlined above. I will build my own survey forms and recruit a small subset of survey takers to help with the labeling process. This step will ensure that the variable definitions are accurately communicated and that the survey generate fairly unbiased responses. The collected data will help me assess whether my definitions, hypotheses or surveys need further optimization.
+* Utilize natural language processing to perform frequency analysis, clustering analysis, sentiment analysis, etc.
 
-* Distribute the optimized version of the survey and label at scale.
-
-* BUild the data processing pipeline for the model fitting process. Perform data wrangling and imputation as needed.
-
-* Fit both classification and regression models and select the most predictive and explainable features.
-
-* Repeat any steps as needed. Depending on feasibility, I may build a user interface or dashboard for the final model.
+* Evaluate and validate the results.
 
 Potential Use Cases
 -------------------
 
-One potential use case of the model is to help journalists and content curators gauge how their writing is likely to be perceived by readers. The model can also be used to inform interested readers of any implicit bias that may be present when they approach certain types of news articles. Ultimately, I envision this project to be more of a "mindfulness" exercise rather than a mechanical truth filter. I also want to acknowledge that my findings from this project will be limited in scope, as I am not (yet) a computational linguist nor a machine learning engineer. I'm happy to chat about my ideas and processes further, and in the meantime, I won't be offended in the least by honest and instructive feedback.
+One potential use case of the model is to help journalists and content curators gauge how their writing is likely to be perceived by readers. The model can also be used to inform interested readers of any implicit bias that may be present when they approach certain types of news articles. Ultimately, I envision this project to be more of a "mindfulness" exercise for the benefit of the media community. I also want to acknowledge that my findings from this project will be limited in scope, as I am not (yet) a computational linguist nor a machine learning engineer. I'm happy to chat about my ideas and processes further, and in the meantime, I won't be offended in the least by honest and instructive feedback.
